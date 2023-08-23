@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I am 15 years old
 
-I am also a transgernder girl 🏳️‍⚧️
+I am also a transgender girl 🏳️‍⚧️
 
 ## 🔗 Links
 unavailable 😭 
