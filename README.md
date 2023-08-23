@@ -9,7 +9,9 @@ I am 15 years old
 I am also a transgernder girl 🏳️‍⚧️
 
 ## 🔗 Links
-[![MyDiscord](https://img.shields.io/badge/Discord-0000af?style=for-the-badge&logo=Discord&logoColor=white)](www.localhost.com)
+unavailable 😭 
+#### for now
+[![MyDiscord](https://img.shields.io/badge/Discord-0000af?style=for-the-badge&logo=Discord&logoColor=white)]()
 
 ## 🛠 Skills
 ### For years:
