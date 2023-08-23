@@ -1,32 +1,32 @@
-### Hi there 👋
+
+# Hi, I'm Sundew! 👋
+## also knows as Maddie ❤️
 
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-...
+## 🚀 About Me
+I am 15 years old
 
-<details>
-<summary>More Skills</summary>
+I am also a transgernder girl 🏳️‍⚧️
 
-[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-...
-</details>
-<!--
-**sundew0/sundew0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Links
+[![MyDiscord](https://img.shields.io/badge/Discord-0000af?style=for-the-badge&logo=Discord&logoColor=white)](www.localhost.com)
 
-Here are some ideas to get you started:
+## 🛠 Skills
+### For years:
+Python
+
+### still working on skills:
+HTML, css 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on school projects
+
+🧠 I'm currently learning HTML, CSS, Javascript and C++
+
+📫 Reach me on my discord server
+
+🏳️‍⚧️ Pronouns are she/her
+
+
+
