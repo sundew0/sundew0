@@ -10,7 +10,7 @@ I am also a transgernder girl 🏳️‍⚧️
 
 ## 🔗 Links
 unavailable 😭 
-#### for now
+
 [![MyDiscord](https://img.shields.io/badge/Discord-0000af?style=for-the-badge&logo=Discord&logoColor=white)]()
 
 ## 🛠 Skills
