@@ -10,7 +10,7 @@ I am also a transgender girl 🏳️‍⚧️
 
 ## 🔗 Links
 
-![Discord Banner 4](https://discordapp.com/api/guilds/1151277469517746196/widget.png?style=banner4)
+![discord](https://invidget.switchblade.xyz/cB7AbzJm)
 
 ## 🛠 Skills
 ### For years:
