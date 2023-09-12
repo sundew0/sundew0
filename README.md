@@ -10,7 +10,7 @@ I am also a transgender girl 🏳️‍⚧️
 
 ## 🔗 Links
 
-![discord](https://discord.gg/cB7AbzJm)
+![discord](https://dcbadge.vercel.app/api/server/cB7AbzJm
 
 ## 🛠 Skills
 ### For years:
