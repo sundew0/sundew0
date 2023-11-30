@@ -17,7 +17,7 @@ https://discord.gg/4fJcAPKksZ
 Python
 
 ### still working on skills:
-HTML, css 
+HTML, CSS and C++
 
 
 ## Other Common Github Profile Sections
