@@ -20,7 +20,7 @@ Python
 HTML, CSS and C++
 
 
-## Other Common Github Profile Sections
+## some info about me
 👩‍💻 I'm currently working on school projects
 
 🧠 I'm currently learning HTML, CSS, Javascript and C++
