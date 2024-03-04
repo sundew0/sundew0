@@ -10,8 +10,6 @@ I am also a transgender girl 🏳️‍⚧️
 
 ## 🔗 Links
 
-![discord](https://dcbadge.vercel.app/api/server/4fJcAPKksZ)
-https://discord.gg/4fJcAPKksZ
 ## 🛠 Skills
 ### For years:
 Python
