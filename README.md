@@ -15,7 +15,7 @@ I am also a transgender girl 🏳️‍⚧️
 Python
 
 ### still working on skills:
-HTML, CSS and C++
+HTML, CSS, js, php and C++
 
 
 ## some info about me
