@@ -23,8 +23,6 @@ HTML, CSS, js, C++, Java
 
 🧠 I'm currently learning HTML, CSS, Javascript and C++
 
-📫 Reach me on my discord server
-
 🏳️‍⚧️ Pronouns are she/her
 
 
