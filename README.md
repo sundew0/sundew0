@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I am 16 years old
+I am 17 years old
 
 I am also a transgender girl 🏳️‍⚧️
 
@@ -15,7 +15,7 @@ I am also a transgender girl 🏳️‍⚧️
 Python
 
 ### still working on skills:
-HTML, CSS, js, php and C++
+HTML, CSS, js, C++, Java
 
 
 ## some info about me
